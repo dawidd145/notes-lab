@@ -4,3 +4,4 @@
 - note 7: review notes before tagging (2026-10-09T23:15:45)
 - note 9: the checklist mirrors the test matrix (2026-10-09T23:16:00)
 - note 11: the retry section mirrors the code (2026-10-09T23:16:15)
+- note 13: paths in examples stay relative (2026-10-09T23:16:29)

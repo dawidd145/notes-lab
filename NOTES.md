@@ -6,3 +6,4 @@
 - note 11: the retry section mirrors the code (2026-10-09T23:16:15)
 - note 13: paths in examples stay relative (2026-10-09T23:16:29)
 - note 15: temporary notes are pruned weekly (2026-10-09T23:16:43)
+- note 17: review notes before tagging (2026-10-09T23:16:58)

@@ -1,1 +1,2 @@
 - note 1: keep the titles in sentence case (2026-10-09T23:15:01)
+- note 3: the retry section mirrors the code (2026-10-09T23:15:15)

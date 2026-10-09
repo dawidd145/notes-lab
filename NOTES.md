@@ -8,3 +8,4 @@
 - note 15: temporary notes are pruned weekly (2026-10-09T23:16:43)
 - note 17: review notes before tagging (2026-10-09T23:16:58)
 - note 19: the checklist mirrors the test matrix (2026-10-09T23:17:12)
+- note 21: names follow the directory layout (2026-10-09T23:17:27)
